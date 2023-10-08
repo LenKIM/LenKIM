@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  <a href="https://happy-coding-day.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white" height="25" alt="blog logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/simplify-len/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
