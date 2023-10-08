@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm len kim<br><br>- 🔭 I’m working as WoowahanBro<br>- 📚 I'm currently learning OOP, TDD, DDD</p>
+<p align="left"><br>- 📚 I'm currently learning OOP, TDD, DDD</p>
 
 ###
 
